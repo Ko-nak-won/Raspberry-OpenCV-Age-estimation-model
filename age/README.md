@@ -63,7 +63,7 @@ wget https://github.com/GilLevi/AgeGenderDeepLearning/raw/master/models/age_net.
 ## 🚀 실행 방법
 
 ```bash
-python3 age_estimation.py
+python3 qqq.py
 ```
 
 ## ⌨️ 키보드 단축키
